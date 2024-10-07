@@ -1,2 +1,2 @@
-# s3video
+# S3video
 First Video processing from AWS
